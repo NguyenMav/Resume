@@ -77,7 +77,7 @@ experiences:
     info:
       - role: Intern Radiographer
         time: Feb 2023 - Dec 2023
-        company: Vision Radiology
+        company: Vision Radiology, Victoria
         location: Melbourne, Victoria, Australia
         details: |
           - Conducted 25+ X-rays, DEXA, and OPG scans daily, ensuring accuracy and patient safety.
@@ -96,7 +96,7 @@ experiences:
           - Worked at multiple clinics including Mulgrave, Reservoir, Carnegie, Thornbury, Mornington, and Botanic Ridge.
       - role: Bakery Assistant
         time: Dec 2017 - Feb 2023
-        company: Eastfield Patisserie
+        company: Eastfield Patisserie, Victoria 3136
         location: Croydon, Victoria, Australia
         details: |
           - Produced 200+ bakery goods daily, improving workflow efficiency by 20%.
@@ -110,7 +110,7 @@ experiences:
           - Demonstrated flexibility and willingness to take on additional responsibilities during peak periods.
       - role: Pharmacy Assistant
         time: Jun 2017 - Sep 2017
-        company: Eastfield Pharmacy
+        company: Eastfield Pharmacy, Victoria 3136
         location: Croydon, Victoria, Australia
         details: |
           - Adapted quickly to the pharmacy's workflow, ensuring efficient operations.
@@ -124,26 +124,26 @@ experiences:
           - Demonstrated professionalism and reliability, earning commendations from supervisors for dedication and performance.
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills &amp; Proficiency &amp; (To &amp; Be &amp; Added)
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 0%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: R
+        level: 0%
 
-      - name: Angular
-        level: 98%
+      - name: C#
+        level: 0%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 0%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Javascript
+        level: 0%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: SQL
+        level: 0%
 
 footer: >
     Personal Website Resume by Maverick Nguyen using a template designed by Xiaoying Riley
