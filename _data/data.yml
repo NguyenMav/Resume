@@ -124,26 +124,26 @@ experiences:
           - Demonstrated professionalism and reliability, earning commendations from supervisors for dedication and performance.
 
 skills:
-    title: Skills &amp; Proficiency &amp; (To &amp; Be &amp; Added)
+    title: Skills &amp; Proficiency (To Be Added)
 
     toolset:
       - name: Python
-        level: 0%
+        level: 20%
 
       - name: R
-        level: 0%
+        level: 20%
 
       - name: C#
-        level: 0%
+        level: 20%
 
       - name: HTML5 & CSS
-        level: 0%
+        level: 50%
 
       - name: Javascript
-        level: 0%
+        level: 20%
 
       - name: SQL
-        level: 0%
+        level: 60%
 
 footer: >
     Personal Website Resume by Maverick Nguyen using a template designed by Xiaoying Riley
