@@ -41,10 +41,10 @@ sidebar:
         - item: Gaming
           link:
 
-career-profile:
+about-me:
     title: Career Profile
     summary: |
-      Hi! I'm Maverick, a postgraduate data science student with a unique background in medical imaging. I am passionate about harnessing the power of data to benefit people and make data-driven solutions to impact the world positively.
+      A postgraduate data science student with a unique background in medical imaging. Passionate about harnessing the power of data to benefit people and make data-driven solutions to impact the world positively.
 
 education:
     title: Education
